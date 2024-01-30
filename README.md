@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavalasantosh" alt="chavalasantosh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/santoshchavala" target="blank"><img src="https://img.shields.io/twitter/follow/santoshchavala?logo=twitter&style=for-the-badge" alt="santoshchavala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chavalasantosh" target="blank"><img src="https://img.shields.io/twitter/follow/chavalasantosh?logo=twitter&style=for-the-badge" alt="chavalasantosh" /></a> </p>
 
 - 🔭 I’m currently working on **ETL, ML Models, Web Development**
 
@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/santoshchavala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshchavala" height="30" width="40" /></a>
+<a href="https://twitter.com/chavalasantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chavalasantosh" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/santoshchavala?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/santoshchavala" height="30" width="40" /></a>
 <a href="https://instagram.com/santoshchavala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshchavala" height="30" width="40" /></a>
 </p>
