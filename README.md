@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Santosh Chavala 👋</h2>
+<h2 align="center">OhaYoo, I'm Santosh Chavala 👋</h2>
 <br clear="both">
 
 <div align="center">
