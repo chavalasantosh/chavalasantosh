@@ -1,6 +1,6 @@
-<h2 align="center">OhaYoo, I'm Santosh Chavala 👋</h2>
+<h1 align="center">OhaYoo, I'm Santosh Chavala 👋</h1>
+<h6 align="center">Python Developer in Machine Learning, Data Analysis & Automation;</h6>
 <br clear="both">
-
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/257/777/256/naruto-shippuuden-uzumaki-naruto-uchiha-sasuke-kurama-wallpaper-preview.jpg"  style="max-width: 100%;"/>
 </div>
